@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96755730865",
+    "project_id": "uploadimage-2cc9c",
+    "storage_bucket": "uploadimage-2cc9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96755730865:android:9e7dc9c913d43b8ec69590",
+        "android_client_info": {
+          "package_name": "com.example.gpt_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFccCVhZKLllbKvr9OOYowmUFKLqOkiAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96755730865:android:f042bb18c532de83c69590",
+        "android_client_info": {
+          "package_name": "com.example.uploadimage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFccCVhZKLllbKvr9OOYowmUFKLqOkiAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
